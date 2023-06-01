@@ -169,7 +169,7 @@ article p::first-line{
 
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 700px) {
     *{
         margin: 0px;
         padding: 0px;
